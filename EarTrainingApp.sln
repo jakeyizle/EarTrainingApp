@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarTrainingApp", "EarTrainingApp\EarTrainingApp.csproj", "{B07D5C2F-5741-4E36-857C-E2F273751192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07D5C2F-5741-4E36-857C-E2F273751192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07D5C2F-5741-4E36-857C-E2F273751192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07D5C2F-5741-4E36-857C-E2F273751192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07D5C2F-5741-4E36-857C-E2F273751192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D826E87C-BF5C-4C87-BC30-83FAC80EFB90}
+	EndGlobalSection
+EndGlobal
